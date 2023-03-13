@@ -1,0 +1,25 @@
+h1 {
+  color: rgb(145, 18, 159);
+}
+h2 {
+  font-weight: 200;
+  color: darkorchid;
+}
+h3 {
+  font-weight: lighter;
+}
+.border p-2 {
+  border-left-width: 0;
+}
+
+.cloud {
+  position: fixed;
+  top: 80px;
+  margin: 0;
+  right: 0;
+  left: 400px;
+  font-size: 50px;
+}
+li {
+  list-style: none;
+}
